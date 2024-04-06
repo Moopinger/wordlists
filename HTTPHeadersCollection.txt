@@ -1,6 +1,8 @@
 %
 %0A
-%0A%0D
+%0D%0A
+transfer_encoding
+content_length
 %3F
 1
 A-IM
